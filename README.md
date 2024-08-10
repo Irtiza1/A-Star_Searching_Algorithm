@@ -1,4 +1,4 @@
-![projectUI](https://github.com/user-attachments/assets/bcb4961a-b7e8-4013-92ba-3cdd2194a0e9)# A* Searching Algorithm
+# A* Searching Algorithm
 
 This project implements the A* searching algorithm in C++ using multithreading with the pthread library. The A* algorithm is used to find the shortest path from a source to a destination on a grid. The grid is represented by a 2D array where each cell can either be blocked (impassable) or unblocked (passable).
 
