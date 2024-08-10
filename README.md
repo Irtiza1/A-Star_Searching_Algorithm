@@ -46,7 +46,7 @@ The grid is represented as a 2D array where:
 
 ### Example Grid
 . 1 1 1 1 1 1 1 1 1 1
-1 0 0 0 0 0 0 0 1 1
+. 1 0 0 0 0 0 0 0 1 1
 1 0 1 1 1 1 1 0 0 1
 0 0 1 0 0 0 0 0 1 1
 1 1 1 1 1 0 1 0 0 1
