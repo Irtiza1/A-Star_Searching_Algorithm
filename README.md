@@ -9,14 +9,10 @@ This project implements the A* searching algorithm in C++ using multithreading w
 - [Grid Representation](#grid-representation)
 - [Multithreading](#multithreading)
 - [How to Run](#how-to-run)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Project Structure
 
 - **main.cpp**: Contains the implementation of the A* algorithm.
-- **pthread.h**: Header file for POSIX threads used for multithreading.
-- **Makefile**: File to compile and run the program (if applicable).
 
 ## Features
 
